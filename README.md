@@ -7,6 +7,7 @@ Projetos e laboratórios de estudo em DevOps e Cloud.
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [devops-challenge](https://github.com/PedroDelmiro13/devops-challenge) | Desafio técnico de uma vaga: API em Node.js com deploy automatizado em staging e produção na AWS, HTTPS, CloudWatch com alarme via SNS e rollback testado | AWS EC2, Docker, GitHub Actions, Nginx, Certbot, CloudWatch |
+| [linkpulse](https://github.com/PedroDelmiro13/linkpulse) | Encurtador de links em três camadas na AWS. Possui ALB com health check, Auto Scaling Group em 2 AZs, contagem de cliques assíncrona com SQS e DLQ, DynamoDB e configuração no Parameter Store. | AWS ALB, EC2, Auto Scaling, DynamoDB, SQS, Systems Manager, Node.js |
 | [supportflow](https://github.com/PedroDelmiro13/supportflow) | Fui responsável pela pipeline de CI com build/teste, SAST, lint e DAST | GitHub Actions, Semgrep, Checkstyle, OWASP ZAP |
 | [hardening-container](https://github.com/PedroDelmiro13/hardening-container) | Hardening de um ambiente Docker Compose: usuário não-root, segredos fora do código, banco em rede privada, limites de recursos e capabilities removidas | Docker, Docker Compose |
 | [pipeline-jenkins-nodejs](https://github.com/PedroDelmiro13/pipeline-jenkins-nodejs) | A mesma pipeline de segurança para Node.js (build, testes, SAST e DAST) implementada em Jenkins e em GitHub Actions | Jenkins, GitHub Actions, Semgrep, OWASP ZAP |
