@@ -26,3 +26,4 @@ Projetos e laboratórios de estudo em DevOps e Cloud.
 | [docker-tar](https://github.com/PedroDelmiro13/docker-tar) | Site estático publicado no Docker Hub | Docker, Docker Hub |
 | [cloud-init_lab](https://github.com/PedroDelmiro13/cloud-init_lab) | Provisionamento de VM Linux com cloud-init (usuário com chave SSH, Docker, Nginx, serviços), testado localmente com Vagrant | cloud-init, Vagrant, Nginx, Docker |
 | [vagrant-work](https://github.com/PedroDelmiro13/vagrant-work) | VM Ubuntu com Apache instalado automaticamente por provisionamento | Vagrant, VirtualBox, Apache |
+| [grafana_lab](https://github.com/PedroDelmiro13/grafana_lab) | Observabilidade de logs de uma aplicação, com coleta pelo Alloy, armazenamento no Loki e visualização no Grafana, orquestrado pelo Docker Compose | Docker, Docker Compose, Grafana, Loki, Alloy
